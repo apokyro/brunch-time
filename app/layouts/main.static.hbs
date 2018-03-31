@@ -1,0 +1,23 @@
+---
+_options:
+    partials:
+        - app/partials/head.static.hbs
+        - app/partials/header.static.hbs
+        - app/partials/footer.static.hbs
+
+"nav-item": [{
+    "name": "Home",
+    "url": "index.html"
+}]
+
+site-name: Vidimize
+---
+{{>head}}
+
+{{>header}}
+
+<main>
+    {{content}}
+</main>
+
+{{>footer}}

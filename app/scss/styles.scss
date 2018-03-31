@@ -1,0 +1,12 @@
+/**
+ * Global Project Specific Variables
+ *
+ */
+@import 'config/paths';
+@import 'config/typography';
+@import 'config/colors';
+
+h1 {
+  font-family: $t_arial;
+  font-size: 14px;
+}
