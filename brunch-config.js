@@ -27,6 +27,7 @@ exports.plugins = {
         }
     },
     static: {
+        pathTransform: filename => path.relative('pages', filename),
         processors: [
             require('html-brunch-static')({
                 partials: /partials?/,
