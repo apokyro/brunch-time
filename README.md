@@ -19,7 +19,6 @@ This is a skeleton (or boilerplate) for [Brunch](http://brunch.io), a fast and e
 * Ready to format your code with [Prettier](https://prettier.io)
 * [Handlebars](http://handlebarsjs.com) Static site templating structure is written in `layouts`, `partials`, and `pages`.
 * [html-brunch-static](https://github.com/bmatcuk/html-brunch-static) enables [handlebars](http://handlebarsjs.com/) precompiled templates.
-* index.html with essential meta tags for SEO and Social Media
 
 ## Getting started with Brunch
 
