@@ -4,7 +4,7 @@ This is a skeleton (or boilerplate) for [Brunch](http://brunch.io), a fast and e
 
 ## Installation
 
-* Clone this git repo `https://github.com/apokyro/brunch-time`
+* Clone this git repo `git clone https://github.com/apokyro/brunch-time`
 * Run `npm install` to install app dependencies and brunch plugins
 
 ## Features
